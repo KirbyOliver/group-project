@@ -40,3 +40,9 @@ main h2 {
 .codys-styles {
     background:rgb(92, 149, 235);
 }
+
+.code-kirby-style {
+    color: green;
+    background-color: burlywood;
+    padding: 3px;
+}
